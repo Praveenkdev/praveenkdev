@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Praveen Kumar</h1>
 
 <h3 align="center">
-AI & Full Stack Developer from India 🇮🇳
+AI & Full Stack Developer • India 🇮🇳
 </h3>
 
 <p align="center">
@@ -97,3 +97,115 @@ Currently, I'm expanding my knowledge in AI-powered applications, scalable backe
 - 🌐 Full Stack Web Development
 - ⚡ Backend APIs
 - 📚 Learning System Design & Cloud Technologies
+
+---
+
+# 🚀 Featured Projects
+
+### 🧠 Brain Tumor Segmentation using Diffusion Models
+
+Developed a deep learning application for automated brain tumor segmentation using a **3D Conditional Diffusion Probabilistic Model (DDPM)** on MRI datasets.
+
+**Tech Stack**
+
+`Python` `PyTorch` `NumPy`
+
+---
+
+### ✨ AI Story Generator
+
+Built an AI-powered web application capable of generating creative stories using the **OpenAI API** with asynchronous processing and a responsive user interface.
+
+**Tech Stack**
+
+`HTML` `CSS` `JavaScript` `OpenAI API`
+
+---
+
+### 🔐 Smart Door Lock System
+
+Designed an Arduino-based smart security system with password authentication and automatic lockout after multiple failed attempts.
+
+**Tech Stack**
+
+`Arduino` `Embedded Systems`
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=praveenkdev&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=praveenkdev&layout=compact&theme=github_dark&hide_border=true"/>
+
+</p>
+
+---
+
+# 🔥 Contribution Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=praveenkdev&theme=github-dark&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Achievements
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=praveenkdev&theme=algolia&no-frame=true&margin-w=10&margin-h=10"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=praveenkdev&theme=github-dark"/>
+
+</p>
+
+---
+
+# 📚 Currently Learning
+
+- 🤖 Artificial Intelligence & Generative AI
+- 🧠 AI Agents & Large Language Models
+- 🌐 Full Stack Development
+- ⚙️ Backend Architecture
+- ☁️ Cloud Technologies
+- 🐳 Docker
+- 🏗️ System Design
+
+---
+
+# 📫 Let's Connect
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/praveen-kumar-970356344">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/praveenkdev">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+### ⭐ "Building Intelligent Software for Real-World Problems."
+
+Thank you for visiting my profile!
+
+</p>
