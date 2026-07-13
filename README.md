@@ -54,27 +54,42 @@ Currently, I'm expanding my knowledge in AI-powered applications, scalable backe
 
 ---
 
-# 🛠️ Tech Stack
+## 💻 Tech Stack
 
-### 💻 Programming Languages
+<table>
+<tr>
+<td valign="top" width="50%">
 
+### 🚀 Languages
 <p>
-<img src="https://skillicons.dev/icons?i=python,javascript,html,css,mysql" />
+<img src="https://skillicons.dev/icons?i=python,javascript,html,css,mysql"/>
 </p>
 
-### ⚙️ Backend Development
-
+### 🌐 Frontend
 <p>
-<img src="https://skillicons.dev/icons?i=django,nodejs,express" />
+<img src="https://skillicons.dev/icons?i=html,css,javascript"/>
 </p>
 
-### 🗄️ Databases
-
+### ⚙️ Backend
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,sqlite,supabase" />
+<img src="https://skillicons.dev/icons?i=django,nodejs,express"/>
 </p>
 
-### 🤖 AI / Machine Learning
+</td>
+
+<td valign="top" width="50%">
+
+### 🗄️ Database
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,sqlite,supabase"/>
+</p>
+
+### 🛠️ Tools
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker"/>
+</p>
+
+### 🤖 AI / ML
 
 - PyTorch
 - NumPy
@@ -82,29 +97,17 @@ Currently, I'm expanding my knowledge in AI-powered applications, scalable backe
 - Prompt Engineering
 - Diffusion Models (DDPM)
 
-### 🛠️ Tools & Platforms
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker" />
-</p>
+</td>
+</tr>
+</table>
 
 ---
 
-# 🚀 Currently Working On
-
-- 🎙️ AI Voice Agent
-- 🤖 AI-powered Applications
-- 🌐 Full Stack Web Development
-- ⚡ Backend APIs
-- 📚 Learning System Design & Cloud Technologies
-
----
-
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
 ### 🧠 Brain Tumor Segmentation using Diffusion Models
 
-Developed a deep learning application for automated brain tumor segmentation using a **3D Conditional Diffusion Probabilistic Model (DDPM)** on MRI datasets.
+> Developed a deep learning solution using a **3D Conditional Diffusion Probabilistic Model (DDPM)** for automated brain tumor segmentation from MRI datasets.
 
 **Tech Stack**
 
@@ -114,7 +117,7 @@ Developed a deep learning application for automated brain tumor segmentation usi
 
 ### ✨ AI Story Generator
 
-Built an AI-powered web application capable of generating creative stories using the **OpenAI API** with asynchronous processing and a responsive user interface.
+> AI-powered web application that generates creative stories using the **OpenAI API**, asynchronous request handling, and a responsive interface.
 
 **Tech Stack**
 
@@ -124,7 +127,7 @@ Built an AI-powered web application capable of generating creative stories using
 
 ### 🔐 Smart Door Lock System
 
-Designed an Arduino-based smart security system with password authentication and automatic lockout after multiple failed attempts.
+> Arduino-based smart security system featuring password authentication and automatic lockout after multiple failed attempts.
 
 **Tech Stack**
 
@@ -132,19 +135,27 @@ Designed an Arduino-based smart security system with password authentication and
 
 ---
 
-# 📊 GitHub Analytics
+> 🚧 **Currently Building**
+
+- AI Voice Agent
+- HELPON
+- AI-powered Applications
+
+---
+
+## 📊 GitHub Analytics
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=praveenkdev&show_icons=true&theme=github_dark&hide_border=true"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=praveenkdev&show_icons=true&theme=github_dark&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=praveenkdev&layout=compact&theme=github_dark&hide_border=true"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=praveenkdev&layout=compact&theme=github_dark&hide_border=true"/>
 
 </p>
 
 ---
 
-# 🔥 Contribution Streak
+## 🔥 GitHub Streak
 
 <p align="center">
 
@@ -154,17 +165,7 @@ Designed an Arduino-based smart security system with password authentication and
 
 ---
 
-# 🏆 GitHub Achievements
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=praveenkdev&theme=algolia&no-frame=true&margin-w=10&margin-h=10"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
+## 📈 Contribution Graph
 
 <p align="center">
 
@@ -174,19 +175,28 @@ Designed an Arduino-based smart security system with password authentication and
 
 ---
 
-# 📚 Currently Learning
+## 📚 Currently Learning
 
-- 🤖 Artificial Intelligence & Generative AI
-- 🧠 AI Agents & Large Language Models
-- 🌐 Full Stack Development
+- 🤖 AI Agents & Large Language Models (LLMs)
+- 🎙️ AI Voice Applications
 - ⚙️ Backend Architecture
-- ☁️ Cloud Technologies
 - 🐳 Docker
+- ☁️ Cloud Technologies
 - 🏗️ System Design
 
 ---
 
-# 📫 Let's Connect
+## 🎯 2026 Goals
+
+- 🚀 Build production-ready AI applications
+- 🌐 Develop scalable full-stack systems
+- 📖 Contribute to open-source projects
+- 💼 Start my career as an AI / Full Stack Developer
+- 📚 Continue learning modern software engineering practices
+
+---
+
+## 📫 Connect With Me
 
 <p align="center">
 
@@ -202,10 +212,12 @@ Designed an Arduino-based smart security system with password authentication and
 
 ---
 
+---
+
 <p align="center">
 
-### ⭐ "Building Intelligent Software for Real-World Problems."
+⭐ **Building Intelligent Software for Real-World Problems**
 
-Thank you for visiting my profile!
+Thank you for visiting my GitHub profile!
 
 </p>
