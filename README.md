@@ -378,26 +378,10 @@ Building an AI-assisted emergency response platform focused on improving emergen
 
 ---
 
-# 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=praveenkdev&theme=github-dark&hide_border=true" alt="GitHub Streak"/>
-</p>
-
----
-
 # 📈 Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=praveenkdev&theme=github-dark" alt="Contribution Graph"/>
-</p>
-
----
-
-# 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=praveenkdev&theme=algolia&no-frame=true&no-bg=true&margin-w=12" alt="GitHub Trophies"/>
 </p>
 
 ---
